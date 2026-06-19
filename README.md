@@ -222,9 +222,3 @@ http://127.0.0.1:5000
 The AI-Enhanced Intrusion Detection System demonstrates how Machine Learning can be applied to cybersecurity for identifying suspicious network behavior. By leveraging a Random Forest Classifier and a balanced intrusion dataset, the system provides an effective and scalable approach for intrusion detection. The project serves as a strong foundation for building advanced cybersecurity solutions capable of handling modern threats.
 
 ---
-
-## 👨‍💻 Developed By
-
-**Bilal Mirje**
-
----
